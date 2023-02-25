@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EFM REGIONAL JAVA V2</string>
+    <string name="toast_message_erreur_saisie" >erreur_champ vide</string>
+    <string name="Underweight">Underweight</string>
+    <string name="Normal">Normal</string>
+    <string name="overweight">overweight</string>
+    <string name="Obese">Obese</string>
+</resources>
